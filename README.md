@@ -1,16 +1,9 @@
-# niveraapp
+# nivera IoT based electronic development environment mobile application
 
-A new Flutter project.
+## Introduction
 
-## Getting Started
+Welcome to the IoT Based Development Boards Mobile Application Project! This repository contains mobile application for a family of versatile development boards aimed at supporting educational, industrial, and individual (hobby) applications. You can use this application with our developemnet boards and make simulations for your acutators/sensors.
 
-This project is a starting point for a Flutter application.
+## Programming Language
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart/Flutter
